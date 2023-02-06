@@ -1,7 +1,9 @@
-@charset "UTF-8"
+@charset "UTF-8";
 
-*{
-    
+* {
+    margin: 0px;
+    padding: 0px;
+}
 
 htm, body{
     height: 100vh;
@@ -18,6 +20,13 @@ section#telefone {
     position: absolute;
     height: 500px;
     width: 500px;
-    
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
     background-color: aqua;
+    background-image: url(../imagens/frame-iphone.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    background-attachment: fixed;
 }
