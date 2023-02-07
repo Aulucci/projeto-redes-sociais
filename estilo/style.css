@@ -24,13 +24,14 @@ main{
 
 section#telefone {
     position: absolute;
-    height: 504px;
-    width: 250px;
+    height: 383px;
+    width: 190px;
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-    background-image: url(../imagens2/frame-iphone2.png);
+    background-image: url(../imagens2/frame-iphone3.png);
     background-repeat: no-repeat;
+    padding-left: 
     
     
     
@@ -38,14 +39,15 @@ section#telefone {
 
 iframe#tela{
     position: relative;
-    top: 63px;
-    left: 18px;
-    width: 215px;
-    height: 382px;
+    top: 48px;
+    left: 12px;
+    width: 166px;
+    height: 292px;
     
 }
 section#icones{
     padding: 90px 3px;
+    
 }
 
 section#icones img{
