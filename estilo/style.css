@@ -31,9 +31,6 @@ section#telefone {
     transform: translate(-50%,-50%);
     background-image: url(../imagens2/frame-iphone3.png);
     background-repeat: no-repeat;
-    padding-left: 
-    
-    
     
 }   
 
@@ -44,7 +41,7 @@ iframe#tela{
     width: 166px;
     height: 292px;
     border-radius: 5px;
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.63);
+    /*box-shadow:  0px 0px 5px rgb(0, 0, 0);*/
     
 }
 section#icones{
@@ -57,7 +54,6 @@ section#icones img{
     margin: 5px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.322);
-    
     box-sizing: border-box;
 }
 
